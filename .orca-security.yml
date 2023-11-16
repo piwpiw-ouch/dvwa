@@ -1,6 +1,4 @@
 global:
    # Will be appended to the excluded paths defined below (secrets, iac, vulnerablities)
    excluded_paths:
-      - "*"
-   included_paths:
-      - "*.php"
+      - "../*"
