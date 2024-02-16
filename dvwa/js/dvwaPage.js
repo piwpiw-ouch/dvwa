@@ -37,3 +37,4 @@ with (thisform) {
 function confirmClearGuestbook() {
 	return confirm("Are you sure you want to clear the guestbook?");
 }
+alert('XXX');
